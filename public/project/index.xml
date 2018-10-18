@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on LiangChen  QCB@USC</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on LiangChen  QCB@USC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Liang Lab</copyright>
+    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lab Research</title>
+      <link>/project/lab-research/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/lab-research/</guid>
+      <description>Research Topics High-throughput sequencing data analysis:
+e.g., variant identification, sequence quantification, etc
+mRNA alternative splicing:
+e.g., the identification of splicing regulatory elements, the reconstruction of alternative splicing networks, etc
+Genome-wide association studies:
+e.g., expression quantitative trait loci (eQTL) mapping, etc</description>
+    </item>
+    
+    <item>
+      <title>Robust Regression in eQTL</title>
+      <link>/project/robust-regression-eqtl/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/project/robust-regression-eqtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identify cell subtypes from single-cell RNA-seq data</title>
+      <link>/project/single-cell-cluster/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/project/single-cell-cluster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

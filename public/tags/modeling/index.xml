@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modeling on LiangChen  QCB@USC</title>
+    <link>/tags/modeling/</link>
+    <description>Recent content in Modeling on LiangChen  QCB@USC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Liang Lab</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An empirical likelihood ratio test robust to individual heterogeneity for differential expression analysis of RNA-seq.</title>
+      <link>/publication/empirical-likelihood/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/empirical-likelihood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Regression in eQTL</title>
+      <link>/project/robust-regression-eqtl/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/project/robust-regression-eqtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identify cell subtypes from single-cell RNA-seq data</title>
+      <link>/project/single-cell-cluster/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/project/single-cell-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two-parameter generalized Poisson model to improve the analysis of RNA-seq data</title>
+      <link>/publication/generalized-poisson/</link>
+      <pubDate>Thu, 29 Jul 2010 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/generalized-poisson/</guid>
+      <description>Figure 3. ROC curves for the GP, the Poisson and the GLM (Poisson, negative binomial and quasi-Poisson links) in the identification of differentially expressed genes. Genes with the estimates in the six models and a reliable log-ratio value in the qRT-PCR experiments were considered. We further limited our studies on the standard positives (qRT-PCR absolute log-ratio &amp;gt;2.0, n = 218) and the standard negatives (qRT-PCR absolute log-ratio &amp;lt;0.2, n = 74).</description>
+    </item>
+    
+  </channel>
+</rss>

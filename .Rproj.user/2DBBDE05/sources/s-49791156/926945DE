@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539755771010.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "926945DE",
+    "lastKnownWriteTime" : 1539815130,
+    "last_content_update" : 1539815130,
+    "path" : "~/R-workspace/Liang-labpage/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "292,12",
+        "scrollLine" : "331"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
